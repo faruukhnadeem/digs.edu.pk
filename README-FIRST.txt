@@ -1,23 +1,14 @@
-DIGS NEW WEBSITE — GITHUB + NETLIFY
+DIGS COMPLETE WEBSITE V2 — GITHUB + NETLIFY
 
-THIS IS THE FIRST COMPLETE STATIC REBUILD PACKAGE.
+This package consolidates the website structure and all material shared so far.
 
-FLOW:
-1. Create a new GitHub repository (recommended name: digs-edu-pk).
-2. Upload ALL files and folders from this package to the repository root.
-3. In Netlify, create a new site from Git and connect this repository.
-4. Build command: leave empty.
-5. Publish directory: .
-6. Netlify will generate a temporary preview URL.
-7. Review the preview completely BEFORE changing digs.edu.pk DNS.
-8. Once approved, point digs.edu.pk to the new Netlify site and keep Hostinger WordPress untouched until the cutover is confirmed.
+Included: official DIGS logo; Home; About; Academics; Admissions; Student Life; Achievements; News & Events; Gallery; Contact; 2014 BISE Gujranwala visit; 2015 AFAQ Educational Expo first position; Intermediate Part-I BISE first position; Sports Gala with Chacha Cricket; Little Champs Award 2015; Anwar Masood 2017; Annual Day 2017 and 2018; Barrister Syed Israr ul Hassan Shah visit; Danashians School Band; Parenting Education 2023–2025; Student Farewells; DPO Gujrat visit 2020; UMT–DIGS MoU 17 April 2025; Netlify forms; SEO files and redirects.
 
-IMPORTANT:
-- This package removes the old WordPress/demo-content architecture.
-- It includes redirects for several old WordPress URLs.
-- Admission and contact forms are configured for Netlify Forms.
-- Current contact details used:
-  0327-9360965
-  053-3543043
-  danish.schools@gmail.com
-- The first version uses verified project photos already available. More school photos can be added later without changing the architecture.
+UPLOAD:
+1. Extract ZIP.
+2. Upload/replace ALL files and folders in the ROOT of your existing DIGS GitHub repository.
+3. Commit changes.
+4. Netlify should auto-deploy.
+5. Review the existing Netlify staging URL before changing digs.edu.pk DNS.
+
+More events/photos can be added later using the same structure.

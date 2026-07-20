@@ -1,0 +1,1 @@
+Upload ALL extracted files/folders to the ROOT of the existing DIGS GitHub repository and commit. Netlify will auto-deploy.
