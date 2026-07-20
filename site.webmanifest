@@ -1,0 +1,15 @@
+{
+  "name": "Danish International Grammar School & Girls College",
+  "short_name": "DIGS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f6b4f",
+  "icons": [
+    {
+      "src": "/assets/logo/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

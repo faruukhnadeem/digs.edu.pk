@@ -1,0 +1,12 @@
+# Legacy WordPress routes
+/about-us/ /about/ 301
+/undergraduate/ /academics/ 301
+/graduate/ /academics/ 301
+/online-education/ /academics/ 301
+/how-to-apply/ /admissions/ 301
+/apply-form/ /admissions/#apply 301
+/leadership/ /about/#leadership 301
+/faculty/ /about/#leadership 301
+/tuition-fees/ /admissions/ 301
+/scholarships/ /admissions/ 301
+/programs/ /academics/ 301

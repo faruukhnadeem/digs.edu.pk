@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digs.edu.pk/sitemap.xml
